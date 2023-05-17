@@ -1,0 +1,23 @@
+.c-item{
+    height: 480px;
+
+}
+.c-img{
+    height: 100%;
+}
+
+.footerContainer{
+
+}
+.socialIcon a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: azure;
+    margin: 10px;
+    
+}
+.socialIcon a i{
+    font-size: 2em;
+    color: black;
+    opacity: 0.9;
+}
